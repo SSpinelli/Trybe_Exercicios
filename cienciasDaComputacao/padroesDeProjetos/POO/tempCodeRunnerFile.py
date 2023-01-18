@@ -1,0 +1,8 @@
+minha_tv.aumentar_volume()
+print(minha_tv.volume)
+minha_tv.ligar_desligar_tv()
+minha_tv.diminuir_volume()
+print(minha_tv.volume)
+minha_tv.ligar_desligar_tv()
+minha_tv.canal("99")
+print(minha_tv.canal)
