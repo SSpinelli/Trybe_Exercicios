@@ -1,0 +1,227 @@
+1675194742680	geckodriver	INFO	Listening on 127.0.0.1:60009
+1675194742872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekviGOV"
+Gtk-Message: 16:52:23.046: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675194758710	geckodriver	INFO	Listening on 127.0.0.1:50825
+1675194758896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5Q9WCM"
+Gtk-Message: 16:52:39.075: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675194820684	geckodriver	INFO	Listening on 127.0.0.1:45885
+1675194820876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSi8r6r"
+Gtk-Message: 16:53:41.042: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675194951139	geckodriver	INFO	Listening on 127.0.0.1:48263
+1675194951327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileu30Ufi"
+Gtk-Message: 16:55:51.489: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1675195328463	geckodriver	INFO	Listening on 127.0.0.1:52701
+1675195328471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYVcjWz"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1675195329399	Marionette	INFO	Marionette enabled
+1675195329410	Marionette	INFO	Listening on port 42261
+Read port: 42261
+WebDriver BiDi listening on ws://127.0.0.1:55923
+1675195329534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYVcjWz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55923/devtools/browser/458b952a-9ce3-4fa2-8ad7-6942d4a6cd65
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1675195479243	Marionette	INFO	Stopped listening on port 42261
+1675195489661	geckodriver	INFO	Listening on 127.0.0.1:58777
+1675195489664	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9y2Msf"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1675195490473	Marionette	INFO	Marionette enabled
+1675195490478	Marionette	INFO	Listening on port 33429
+WebDriver BiDi listening on ws://127.0.0.1:47823
+Read port: 33429
+1675195490813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9y2Msf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47823/devtools/browser/eb6024c4-9805-411e-9c70-352c8f64875a
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: this._element is null
+1675199008253	geckodriver	INFO	Listening on 127.0.0.1:43573
+1675199008257	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59669" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledGur6h"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1675199009054	Marionette	INFO	Marionette enabled
+1675199009059	Marionette	INFO	Listening on port 46031
+WebDriver BiDi listening on ws://127.0.0.1:59669
+Read port: 46031
+1675199009376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledGur6h/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59669/devtools/browser/6be59cba-57ea-4481-a309-82785974dfc7
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1675199034784	Marionette	INFO	Stopped listening on port 46031
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1692:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:374:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:254:17
+Barrier/_internalAddBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:773:20
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:718:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:523:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:462:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1548:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1568:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:572:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1675199348243	geckodriver	INFO	Listening on 127.0.0.1:44305
+1675199348247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35173" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelJJpEx"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1675199349029	Marionette	INFO	Marionette enabled
+1675199349039	Marionette	INFO	Listening on port 38315
+Read port: 38315
+WebDriver BiDi listening on ws://127.0.0.1:35173
+1675199349142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelJJpEx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35173/devtools/browser/3d2d0367-d994-4a63-b139-6454d11faad6
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1675199468854	geckodriver	INFO	Listening on 127.0.0.1:59921
+1675199468858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKTNP4o"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1675199469692	Marionette	INFO	Marionette enabled
+1675199469696	Marionette	INFO	Listening on port 34951
+Read port: 34951
+WebDriver BiDi listening on ws://127.0.0.1:33857
+1675199469800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKTNP4o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33857/devtools/browser/2b265aa0-9a31-4f9d-a456-93a11a843e00
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1675199822878	geckodriver	INFO	Listening on 127.0.0.1:45109
+1675199822882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQd53et"
+[GFX1-]: glxtest: VA-API test failed: missing or old libva-drm library.
+1675199823684	Marionette	INFO	Marionette enabled
+1675199823688	Marionette	INFO	Listening on port 42485
+WebDriver BiDi listening on ws://127.0.0.1:40699
+Read port: 42485
+1675199824005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQd53et/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40699/devtools/browser/58831839-ecc0-4b52-8eec-4665055d1f6c
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://books.toscrape.com/static/oscar/js/jquery/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1675202621681	Marionette	INFO	Stopped listening on port 33429
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675202622640	Marionette	INFO	Stopped listening on port 38315
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675202625407	Marionette	INFO	Stopped listening on port 34951
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675202628700	Marionette	INFO	Stopped listening on port 42485
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
